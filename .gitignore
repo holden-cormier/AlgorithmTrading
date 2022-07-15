@@ -1,3 +1,7 @@
 oanda.cfg
 .idea
 five_minute.csv
+.gitignore
+DNN_model
+DNN_data.csv
+params.pkl
